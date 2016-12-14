@@ -5,4 +5,4 @@
 
 #####效果图如下
 
-![效果如下](https://github.com/zfx5130/WeChatCameraDemo/blob/master/test.gif)
+![效果如下](https://github.com/zfx5130/WeChatCameraDemo/blob/master/test.png)
